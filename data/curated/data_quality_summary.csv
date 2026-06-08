@@ -1,0 +1,4 @@
+table_name,row_count,duplicate_rows,total_null_values,columns_with_nulls
+fact_sales,342674,854,0,0
+fact_inventory,341820,0,0,0
+replenishment,1620,0,0,0

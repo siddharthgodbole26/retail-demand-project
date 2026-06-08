@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-01-30T13:10:53+00:00",
+  "seed": 7,
+  "observation_start": "2025-07-04",
+  "observation_end": "2026-01-30",
+  "rows": {
+    "stores": 18,
+    "products": 90,
+    "calendar": 211,
+    "purchase_orders": 87,
+    "inventory_daily": 341820,
+    "sales_daily": 342674
+  },
+  "known_data_issues_intentionally_included": [
+    "stores: ~2% inconsistent casing in region",
+    "purchase_orders: ~0.3% duplicated rows + ~0.5% store_id casing issues",
+    "inventory_daily: ~0.4% missing on_hand_close",
+    "sales_daily: ~0.25% duplicated rows + ~0.15% sales outlier spikes",
+    "sales is censored by stockouts; true_demand_units included to enable lost sales proxy"
+  ]
+}

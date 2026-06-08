@@ -1,0 +1,722 @@
+[
+  {
+    "sku_id": "SKU0001",
+    "category": "PersonalCare",
+    "price": 392.55,
+    "cost": 269.72,
+    "shelf_life_days": 510,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0002",
+    "category": "HomeCare",
+    "price": 372.13,
+    "cost": 210.62,
+    "shelf_life_days": 536,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0003",
+    "category": "Snacks",
+    "price": 220.56,
+    "cost": 169.92,
+    "shelf_life_days": 396,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0004",
+    "category": "Snacks",
+    "price": 539.79,
+    "cost": 385.07,
+    "shelf_life_days": 420,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0005",
+    "category": "Beverages",
+    "price": 262.43,
+    "cost": 175.54,
+    "shelf_life_days": 373,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0006",
+    "category": "Dairy",
+    "price": 401.14,
+    "cost": 325.45,
+    "shelf_life_days": 21,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0007",
+    "category": "Dairy",
+    "price": 349.25,
+    "cost": 274.51,
+    "shelf_life_days": 8,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0008",
+    "category": "Beverages",
+    "price": 488.51,
+    "cost": 393.32,
+    "shelf_life_days": 507,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0009",
+    "category": "HomeCare",
+    "price": 213.23,
+    "cost": 128.36,
+    "shelf_life_days": 585,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0010",
+    "category": "HomeCare",
+    "price": 297.06,
+    "cost": 234.29,
+    "shelf_life_days": 703,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0011",
+    "category": "Beverages",
+    "price": 243.15,
+    "cost": 160.71,
+    "shelf_life_days": 295,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0012",
+    "category": "Dairy",
+    "price": 241.46,
+    "cost": 163.3,
+    "shelf_life_days": 18,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0013",
+    "category": "Beverages",
+    "price": 243.97,
+    "cost": 135.84,
+    "shelf_life_days": 569,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0014",
+    "category": "Snacks",
+    "price": 96.69,
+    "cost": 78.43,
+    "shelf_life_days": 238,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0015",
+    "category": "Beverages",
+    "price": 267.8,
+    "cost": 210.4,
+    "shelf_life_days": 548,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0016",
+    "category": "Snacks",
+    "price": 273.96,
+    "cost": 176.97,
+    "shelf_life_days": 667,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0017",
+    "category": "Beverages",
+    "price": 360.09,
+    "cost": 212.74,
+    "shelf_life_days": 402,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0018",
+    "category": "HomeCare",
+    "price": 249.49,
+    "cost": 191.82,
+    "shelf_life_days": 527,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0019",
+    "category": "Grocery",
+    "price": 417.65,
+    "cost": 231.32,
+    "shelf_life_days": 19,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0020",
+    "category": "Beverages",
+    "price": 229.24,
+    "cost": 171.01,
+    "shelf_life_days": 304,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0021",
+    "category": "Dairy",
+    "price": 75.89,
+    "cost": 45.42,
+    "shelf_life_days": 12,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0022",
+    "category": "Snacks",
+    "price": 153.7,
+    "cost": 98.65,
+    "shelf_life_days": 254,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0023",
+    "category": "Dairy",
+    "price": 486.4,
+    "cost": 396.27,
+    "shelf_life_days": 9,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0024",
+    "category": "Beverages",
+    "price": 224.1,
+    "cost": 168.2,
+    "shelf_life_days": 491,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0025",
+    "category": "Beverages",
+    "price": 237.9,
+    "cost": 157.29,
+    "shelf_life_days": 565,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0026",
+    "category": "HomeCare",
+    "price": 488.52,
+    "cost": 337.21,
+    "shelf_life_days": 472,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0027",
+    "category": "HomeCare",
+    "price": 167.01,
+    "cost": 122.36,
+    "shelf_life_days": 347,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0028",
+    "category": "PersonalCare",
+    "price": 545.36,
+    "cost": 348.93,
+    "shelf_life_days": 514,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0029",
+    "category": "Snacks",
+    "price": 157.0,
+    "cost": 95.38,
+    "shelf_life_days": 341,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0030",
+    "category": "HomeCare",
+    "price": 294.57,
+    "cost": 200.13,
+    "shelf_life_days": 273,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0031",
+    "category": "Beverages",
+    "price": 172.84,
+    "cost": 139.93,
+    "shelf_life_days": 587,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0032",
+    "category": "Snacks",
+    "price": 254.5,
+    "cost": 152.61,
+    "shelf_life_days": 576,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0033",
+    "category": "Grocery",
+    "price": 226.2,
+    "cost": 174.2,
+    "shelf_life_days": 20,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0034",
+    "category": "PersonalCare",
+    "price": 185.14,
+    "cost": 141.92,
+    "shelf_life_days": 580,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0035",
+    "category": "HomeCare",
+    "price": 185.05,
+    "cost": 104.11,
+    "shelf_life_days": 271,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0036",
+    "category": "Grocery",
+    "price": 247.7,
+    "cost": 152.86,
+    "shelf_life_days": 21,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0037",
+    "category": "Dairy",
+    "price": 179.47,
+    "cost": 127.32,
+    "shelf_life_days": 8,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0038",
+    "category": "Grocery",
+    "price": 226.47,
+    "cost": 143.55,
+    "shelf_life_days": 15,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0039",
+    "category": "HomeCare",
+    "price": 406.17,
+    "cost": 295.56,
+    "shelf_life_days": 296,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0040",
+    "category": "Beverages",
+    "price": 393.05,
+    "cost": 220.39,
+    "shelf_life_days": 307,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0041",
+    "category": "PersonalCare",
+    "price": 553.6,
+    "cost": 312.06,
+    "shelf_life_days": 492,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0042",
+    "category": "Snacks",
+    "price": 140.01,
+    "cost": 100.69,
+    "shelf_life_days": 248,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0043",
+    "category": "PersonalCare",
+    "price": 76.67,
+    "cost": 58.67,
+    "shelf_life_days": 344,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0044",
+    "category": "Grocery",
+    "price": 249.93,
+    "cost": 150.77,
+    "shelf_life_days": 15,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0045",
+    "category": "Beverages",
+    "price": 143.39,
+    "cost": 82.59,
+    "shelf_life_days": 424,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0046",
+    "category": "Beverages",
+    "price": 306.0,
+    "cost": 234.69,
+    "shelf_life_days": 375,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0047",
+    "category": "Dairy",
+    "price": 150.26,
+    "cost": 118.87,
+    "shelf_life_days": 9,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0048",
+    "category": "Grocery",
+    "price": 294.97,
+    "cost": 179.33,
+    "shelf_life_days": 9,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0049",
+    "category": "Beverages",
+    "price": 232.94,
+    "cost": 144.01,
+    "shelf_life_days": 656,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0050",
+    "category": "Snacks",
+    "price": 368.25,
+    "cost": 240.38,
+    "shelf_life_days": 635,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0051",
+    "category": "Grocery",
+    "price": 461.75,
+    "cost": 300.95,
+    "shelf_life_days": 11,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0052",
+    "category": "Snacks",
+    "price": 82.86,
+    "cost": 51.11,
+    "shelf_life_days": 292,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0053",
+    "category": "Dairy",
+    "price": 509.51,
+    "cost": 383.78,
+    "shelf_life_days": 18,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0054",
+    "category": "Beverages",
+    "price": 455.7,
+    "cost": 344.54,
+    "shelf_life_days": 668,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0055",
+    "category": "Grocery",
+    "price": 249.91,
+    "cost": 142.93,
+    "shelf_life_days": 18,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0056",
+    "category": "HomeCare",
+    "price": 137.89,
+    "cost": 106.84,
+    "shelf_life_days": 442,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0057",
+    "category": "Beverages",
+    "price": 121.62,
+    "cost": 95.92,
+    "shelf_life_days": 648,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0058",
+    "category": "Snacks",
+    "price": 630.86,
+    "cost": 470.86,
+    "shelf_life_days": 217,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0059",
+    "category": "PersonalCare",
+    "price": 301.35,
+    "cost": 195.91,
+    "shelf_life_days": 571,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0060",
+    "category": "Grocery",
+    "price": 256.15,
+    "cost": 154.08,
+    "shelf_life_days": 11,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0061",
+    "category": "Dairy",
+    "price": 470.34,
+    "cost": 372.55,
+    "shelf_life_days": 15,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0062",
+    "category": "Grocery",
+    "price": 180.3,
+    "cost": 130.54,
+    "shelf_life_days": 8,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0063",
+    "category": "PersonalCare",
+    "price": 415.87,
+    "cost": 323.39,
+    "shelf_life_days": 227,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0064",
+    "category": "PersonalCare",
+    "price": 275.48,
+    "cost": 165.23,
+    "shelf_life_days": 651,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0065",
+    "category": "PersonalCare",
+    "price": 562.0,
+    "cost": 376.59,
+    "shelf_life_days": 259,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0066",
+    "category": "Snacks",
+    "price": 172.56,
+    "cost": 134.25,
+    "shelf_life_days": 413,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0067",
+    "category": "Beverages",
+    "price": 202.27,
+    "cost": 150.66,
+    "shelf_life_days": 595,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0068",
+    "category": "Snacks",
+    "price": 197.18,
+    "cost": 129.08,
+    "shelf_life_days": 608,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0069",
+    "category": "Grocery",
+    "price": 101.88,
+    "cost": 60.1,
+    "shelf_life_days": 12,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0070",
+    "category": "PersonalCare",
+    "price": 160.16,
+    "cost": 93.42,
+    "shelf_life_days": 414,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0071",
+    "category": "Grocery",
+    "price": 205.93,
+    "cost": 145.23,
+    "shelf_life_days": 21,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0072",
+    "category": "Snacks",
+    "price": 141.67,
+    "cost": 112.9,
+    "shelf_life_days": 585,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0073",
+    "category": "Dairy",
+    "price": 218.86,
+    "cost": 148.35,
+    "shelf_life_days": 9,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0074",
+    "category": "Grocery",
+    "price": 133.11,
+    "cost": 99.08,
+    "shelf_life_days": 10,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0075",
+    "category": "Snacks",
+    "price": 565.89,
+    "cost": 447.02,
+    "shelf_life_days": 316,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0076",
+    "category": "HomeCare",
+    "price": 219.6,
+    "cost": 134.25,
+    "shelf_life_days": 457,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0077",
+    "category": "Grocery",
+    "price": 250.37,
+    "cost": 146.03,
+    "shelf_life_days": 9,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0078",
+    "category": "Dairy",
+    "price": 152.86,
+    "cost": 91.65,
+    "shelf_life_days": 9,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0079",
+    "category": "PersonalCare",
+    "price": 275.32,
+    "cost": 172.46,
+    "shelf_life_days": 624,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0080",
+    "category": "Beverages",
+    "price": 274.14,
+    "cost": 180.06,
+    "shelf_life_days": 690,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0081",
+    "category": "PersonalCare",
+    "price": 338.86,
+    "cost": 198.84,
+    "shelf_life_days": 363,
+    "moq_units": 48
+  },
+  {
+    "sku_id": "SKU0082",
+    "category": "Grocery",
+    "price": 83.87,
+    "cost": 51.35,
+    "shelf_life_days": 17,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0083",
+    "category": "HomeCare",
+    "price": 225.32,
+    "cost": 154.19,
+    "shelf_life_days": 474,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0084",
+    "category": "HomeCare",
+    "price": 347.33,
+    "cost": 247.3,
+    "shelf_life_days": 711,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0085",
+    "category": "Grocery",
+    "price": 128.53,
+    "cost": 101.26,
+    "shelf_life_days": 8,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0086",
+    "category": "PersonalCare",
+    "price": 260.86,
+    "cost": 193.32,
+    "shelf_life_days": 339,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0087",
+    "category": "HomeCare",
+    "price": 444.35,
+    "cost": 280.58,
+    "shelf_life_days": 357,
+    "moq_units": 24
+  },
+  {
+    "sku_id": "SKU0088",
+    "category": "Dairy",
+    "price": 197.58,
+    "cost": 157.72,
+    "shelf_life_days": 19,
+    "moq_units": 12
+  },
+  {
+    "sku_id": "SKU0089",
+    "category": "Beverages",
+    "price": 378.75,
+    "cost": 224.18,
+    "shelf_life_days": 338,
+    "moq_units": 6
+  },
+  {
+    "sku_id": "SKU0090",
+    "category": "Beverages",
+    "price": 94.33,
+    "cost": 66.54,
+    "shelf_life_days": 416,
+    "moq_units": 12
+  }
+]
